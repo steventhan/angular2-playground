@@ -1,2 +1,2 @@
-# angular2-tutorial
+# angular2-playground
 Playing with angular 2
